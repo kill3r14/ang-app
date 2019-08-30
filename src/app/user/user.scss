@@ -11,3 +11,39 @@
 .image {
   width: 100%
 }
+.row{
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+padding:8btn-default0px;
+right:50%;
+}
+.container{
+  padding: 0;
+  float: center;
+}
+h4{
+  text-align: center;
+}
+.navbar-text{
+  padding: 10px 15px;
+  background: orange;
+  margin-bottom:10px;
+  border-radius: 20px;
+  color: #fff;
+}
+
+
+
+.header {
+  padding: 20px;
+  text-align: center;
+  background: #1abc9c;
+  color: white;
+  font-size: 30px;
+}
+
+.navbar-inverse {
+  background-color:#1ABC9C;
+  border-color: #1ABC9C;
+}
